@@ -1,0 +1,8 @@
+writing:
+  label: 'Writing'
+  permalink: '/writing'
+  description: 'Blogs about fun writing adventures'
+learning:
+  label: 'Learning'
+  permalink: '/learning'
+  description: 'Blogs about learning new things'
