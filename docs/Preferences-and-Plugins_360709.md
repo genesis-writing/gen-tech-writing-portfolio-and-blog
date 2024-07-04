@@ -1,18 +1,5 @@
 # Preferences and Plugins
 
-## **Navigation**
-
-- [Preferences and Plugins](#preferences-and-plugins)
-  - [**Navigation**](#navigation)
-  - [**Purpose**](#purpose)
-  - [**Preferences**](#preferences)
-    - [General ⚙](#general-)
-    - [Plugins ⊞](#plugins-)
-    - [Discover](#discover)
-    - [Installed](#installed)
-
-* * *
-
 ## **Purpose**
 
 This guide highlights the available options within the app's preferences and

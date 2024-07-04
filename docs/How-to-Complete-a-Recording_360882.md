@@ -1,11 +1,5 @@
 #  How to Complete a Recording
 
-## **Navigation**
-
-  * [**Five-step Process**](#five-step-process)
-
-* * *
-
 ## **Purpose**
 
 This guide helps you understand how to start and end a screen recording

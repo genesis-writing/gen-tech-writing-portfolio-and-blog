@@ -1,21 +1,5 @@
 # Quick Start Guide
 
-## **Navigation**
-- [Quick Start Guide](#quick-start-guide)
-  - [**Navigation**](#navigation)
-  - [**Purpose**](#purpose)
-  - [**Requirements**](#requirements)
-  - [**How to Complete a Recording in Six Easy Steps**](#how-to-complete-a-recording-in-six-easy-steps)
-    - [Step 1](#step-1)
-    - [Step 2](#step-2)
-    - [Step 3](#step-3)
-    - [Step 4](#step-4)
-    - [Step 5](#step-5)
-    - [Step 6](#step-6)
-  - [**Preferences and Plugins**](#preferences-and-plugins)
-
-* * *
-
 ## **Purpose**
 
 This guide helps you quickly get up and running with the Kap app. For more

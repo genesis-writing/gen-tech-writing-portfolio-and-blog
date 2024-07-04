@@ -1,11 +1,5 @@
 # Installation Guide
 
-## **Navigation**
-
-  * [Three-step Process](#three-step-process)
-
-* * *
-
 ## **Purpose**
 
 This guide helps you install the Kap application on your Mac.

@@ -1,22 +1,5 @@
 # Tool Bar
 
-## **Navigation**
-
-- [Tool Bar](#tool-bar)
-  - [**Navigation**](#navigation)
-  - [**Purpose**](#purpose)
-  - [**Introduction to Toolbar Options**](#introduction-to-toolbar-options)
-  - [**Options Overview**](#options-overview)
-    - [Cropped Capture](#cropped-capture)
-      - [Aspect Ratio Options](#aspect-ratio-options)
-      - [Custom Ratio](#custom-ratio)
-    - [Application Window Capture](#application-window-capture)
-    - [Record](#record)
-    - [Full Screen Capture](#full-screen-capture)
-    - [Other](#other)
-
-* * *
-
 ## **Purpose**
 
 This guide highlights the available options in the Kap toolbar.

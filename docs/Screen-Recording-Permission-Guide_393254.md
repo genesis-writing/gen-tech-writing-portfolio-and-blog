@@ -1,9 +1,5 @@
 # Screen Recording Permission Guide
 
-## **Navigation**
-
-  - [Four-step Process](#four-step-process)
-
 ## **Purpose**
 
 This guide helps you grant the required access on your Mac to ensure Kap can
