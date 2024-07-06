@@ -1,3 +1,7 @@
+---
+tags: [Knowledge Base]
+---
+
 #  Setting Up Kap
 
 ## **Overview**

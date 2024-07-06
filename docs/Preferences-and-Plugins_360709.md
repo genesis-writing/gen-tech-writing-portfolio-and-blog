@@ -1,3 +1,7 @@
+---
+tags: [Knowledge Base]
+---
+
 # Preferences and Plugins
 
 ## **Purpose**

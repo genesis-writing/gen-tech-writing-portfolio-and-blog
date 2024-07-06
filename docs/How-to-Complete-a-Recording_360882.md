@@ -1,3 +1,7 @@
+---
+tags: [Knowledge Base]
+---
+
 #  How to Complete a Recording
 
 ## **Purpose**

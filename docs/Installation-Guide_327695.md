@@ -1,3 +1,7 @@
+---
+tags: [Knowledge Base]
+---
+
 # Installation Guide
 
 ## **Purpose**

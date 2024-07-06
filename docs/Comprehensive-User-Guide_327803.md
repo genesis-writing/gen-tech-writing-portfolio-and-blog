@@ -1,3 +1,7 @@
+---
+tags: [Knowledge Base]
+---
+
 #  Comprehensive User Guide
 
 ## **Overview**

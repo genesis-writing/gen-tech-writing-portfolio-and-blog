@@ -1,3 +1,7 @@
+---
+tags: [Knowledge Base]
+---
+
 # Quick Start Guide
 
 ## **Purpose**

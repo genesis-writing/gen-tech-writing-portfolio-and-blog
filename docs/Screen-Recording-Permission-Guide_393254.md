@@ -1,3 +1,7 @@
+---
+tags: [Knowledge Base]
+---
+
 # Screen Recording Permission Guide
 
 ## **Purpose**

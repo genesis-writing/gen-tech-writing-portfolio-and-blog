@@ -1,4 +1,5 @@
 ---
+tags: [Knowledge Base]
 sidebar_position: 1
 ---
 

@@ -1,3 +1,7 @@
+---
+tags: [Knowledge Base]
+---
+
 # Tool Bar
 
 ## **Purpose**
