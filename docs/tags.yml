@@ -1,8 +1,12 @@
-writing:
+knowledge-base:
   label: 'Knowledge Base'
   permalink: '/knowledge-base'
   description: 'Knowledge base writing samples'
-learning:
+sop:
   label: 'SOP'
   permalink: '/sop'
   description: 'SOP writing samples'
+training:
+  label: 'training'
+  permalink: '/training'
+  description: 'Training writing samples'
