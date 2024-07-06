@@ -1,0 +1,8 @@
+{
+    "label": "Comprehensive User Guide",
+    "position": 4,
+    "link": {
+      "type": "generated-index",
+      "description": "This guide provides a thorough understanding of Kap’s functionality. You’ll become familiar with the toolbar, preferences, optional plugins, and editor. Finally, you’ll learn how to complete a screen recording."
+    }
+  }

@@ -1,4 +1,7 @@
 ---
+id: Installation-Guide_327695.md
+title: Installation Guide
+sidebar_position: 2
 tags: [Knowledge Base]
 ---
 
@@ -14,22 +17,22 @@ This guide helps you install the Kap application on your Mac.
 
 Visit the [Kap homepage](https://getkap.co/) and click **“GET KAP”**.
 
-![Kap homepage](../static/img/Installation-Guide_327695_images/393231.jpg)
+![Kap homepage](/img/Installation-Guide_327695_images/393231.jpg)
 
 ### Step 2
 
 Double-click the .dmg file in your browser downloads.
 
-![Kap download](../static/img/Installation-Guide_327695_images/262187.jpg)
+![Kap download](/img/Installation-Guide_327695_images/262187.jpg)
 
 ### Step 3
 
 Move the Kap application to your Applications folder.
 
-![Move Kap to Applications folder](../static/img/Installation-Guide_327695_images/688130.png)
+![Move Kap to Applications folder](/img/Installation-Guide_327695_images/688130.png)
+
+:::tip
 
 Delete the Kap .dmg file from your browser downloads.
 
-
-
-
+:::
