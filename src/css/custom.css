@@ -25,3 +25,7 @@
   --ifm-color-primary-lighter: #ffffff;
   --ifm-color-primary-lightest: #ffffff;
 }
+
+.footer__links {
+  text-align: center;
+}

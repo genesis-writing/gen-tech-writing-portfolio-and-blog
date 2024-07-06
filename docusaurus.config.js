@@ -20,8 +20,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'genesis-writing', // Usually your GitHub org/user name.
+  projectName: 'gen-tech-writing-portfolio-and-blog', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -56,21 +56,26 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/genesis-writing-social_card.png',
       navbar: {
-        title: 'My Site',
+        title: 'Gen Writes',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Gen Writes Logo',
           src: 'img/gs-web-logo.png',
         },
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'portfolioSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Portfolio',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: 'https://www.linkedin.com/in/genesis-sorto/',
+            label: 'LinkedIn',
+            position: 'right',
+          },
           {
             href: 'https://github.com/genesis-writing',
             label: 'GitHub',
@@ -82,46 +87,20 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Contact',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/genesis-sorto/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Email',
+                href: 'mailto:genesis.writing4fun@gmail.com',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Genesis Sorto - Writing Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
