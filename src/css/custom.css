@@ -29,3 +29,7 @@
 .footer__links {
   text-align: center;
 }
+
+.row {
+  justify-content: center;
+}

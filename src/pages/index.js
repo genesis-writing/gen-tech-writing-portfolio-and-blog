@@ -17,11 +17,11 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
+          <p>
+          I’m Genesis, a passionate Technical Writer based in Canada with experience
+          in software, telecommunications, and biotechnology. My expertise lies in crafting
+          user-friendly technical documents that bridge the gap between complex concepts and end-users.
+          </p>
         </div>
       </div>
     </header>
