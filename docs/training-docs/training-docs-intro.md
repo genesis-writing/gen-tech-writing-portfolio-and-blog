@@ -9,7 +9,7 @@ tags: [training]
 
 ## **Introduction**
 
-Welcome to the training documentation section of my portfolio. I have delivered live and remote training to hundreds of individuals across various roles (e.g., networking, customer service, sales, project management). While delivery is critical for any training program, documentation is equally important.
+I have delivered live and remote training to hundreds of individuals across various roles (e.g., networking, customer service, sales, project management). While delivery is critical for any training program, documentation is equally important.
 
 ## **Project Overview**
 

@@ -10,3 +10,7 @@ training:
   label: 'training'
   permalink: '/training'
   description: 'Training writing samples'
+fun:
+  label: 'fun'
+  permalink: '/fun'
+  description: 'Fun writing samples'
