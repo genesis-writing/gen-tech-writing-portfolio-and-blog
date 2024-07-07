@@ -2,7 +2,7 @@
 id: Preferences-and-Plugins_360709
 title: Preferences and Plugins
 sidebar_position: 2
-tags: [Knowledge Base]
+tags: [knowledge-base]
 ---
 
 # Preferences and Plugins

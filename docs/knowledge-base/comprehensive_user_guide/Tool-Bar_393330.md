@@ -2,7 +2,7 @@
 id: Tool-Bar_393330
 title: Toolbar
 sidebar_position: 1
-tags: [Knowledge Base]
+tags: [knowledge-base]
 ---
 
 # Tool Bar

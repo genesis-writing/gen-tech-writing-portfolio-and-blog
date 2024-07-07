@@ -2,7 +2,7 @@
 id: Installation-Guide_327695.md
 title: Installation Guide
 sidebar_position: 2
-tags: [Knowledge Base]
+tags: [knowledge-base]
 ---
 
 # Installation Guide

@@ -2,7 +2,7 @@
 id: SOP-intro
 title: SOP Intro
 sidebar_position: 1
-tags: [SOP]
+tags: [sop]
 ---
 
 # SOP

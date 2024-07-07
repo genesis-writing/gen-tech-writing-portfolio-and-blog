@@ -2,7 +2,7 @@
 id: Quick-Start-Guide_327712
 title: Quick Start Guide
 sidebar_position: 3
-tags: [Knowledge Base]
+tags: [knowledge-base]
 ---
 
 # Quick Start Guide

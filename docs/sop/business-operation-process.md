@@ -2,7 +2,7 @@
 id: business-operation-process
 title: Business Operation Process
 sidebar_position: 2
-tags: [SOP]
+tags: [sop]
 ---
 
 # Business Operation Process

@@ -2,7 +2,7 @@
 id: How-to-Complete-a-Recording_360882.md
 title: How to Complete a Recording
 sidebar_position: 4
-tags: [Knowledge Base]
+tags: [knowledge-base]
 ---
 
 #  How to Complete a Recording

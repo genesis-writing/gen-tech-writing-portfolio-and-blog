@@ -2,7 +2,7 @@
 id: introduction_knowledge_base
 title: Project Info
 sidebar_position: 1
-tags: [Knowledge Base]
+tags: [knowledge-base]
 ---
 
 # Project Info

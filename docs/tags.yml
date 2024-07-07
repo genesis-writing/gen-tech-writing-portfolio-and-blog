@@ -1,9 +1,9 @@
 knowledge-base:
-  label: 'Knowledge Base'
+  label: 'knowledge-base'
   permalink: '/knowledge-base'
   description: 'Knowledge base writing samples'
 sop:
-  label: 'SOP'
+  label: 'sop'
   permalink: '/sop'
   description: 'SOP writing samples'
 training:
