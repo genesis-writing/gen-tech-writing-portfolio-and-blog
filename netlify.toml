@@ -1,0 +1,9 @@
+[build]
+  command = "npm run build"
+  publish = "./build"
+
+[[redirects]]
+  from = "https://genwrites.netlify.app//*"
+  to = "https://genwritesdocs.com/:splat"
+  status = 301
+  force = true
