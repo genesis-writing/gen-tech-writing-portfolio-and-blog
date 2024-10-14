@@ -3,7 +3,7 @@
   publish = "./build"
 
 [[redirects]]
-  from = "https://genwrites.netlify.app//*"
+  from = "https://genwrites.netlify.app/*"
   to = "https://genwritesdocs.com/:splat"
   status = 301
   force = true
