@@ -19,4 +19,4 @@ SOPs are integral to the day-to-day operations of any business. This documentati
 
 ### [Business Operation Process](business-operation-process.md)
 
-This document shows an example of a project delivery process. It involves five departments working together to provide a set of deliverables. It includes an audit process that acts as a verification point to ensure a high-quality end product. If the audit fails twice, department leaders must meet to identify what went wrong and prevent recurrence. The swimlane diagram represents how the process flows between each department.
+This document illustrates an example of a project delivery process involving five departments working together to provide a set of deliverables. It includes an audit process that serves as a verification point to ensure a high-quality end product. If the audit fails twice, department leaders must meet to identify what went wrong and prevent recurrence. I created two diagrams to illustrate how the process flows between each department: one is a sequence diagram created with Mermaid, and the other is a swimlane diagram created with draw.io.

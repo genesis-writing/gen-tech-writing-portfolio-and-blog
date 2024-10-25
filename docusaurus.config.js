@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://genwrites.netlify.app/',
+  url: 'https://genwritesdocs.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -46,6 +46,8 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          onUntruncatedBlogPosts: 'ignore',
+          postsPerPage: 5,
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -115,6 +117,10 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+  markdown: {
+    mermaid: true, // Enable Mermaid support
+  },
+  themes: ['@docusaurus/theme-mermaid'], // Include your theme here
 };
 
 export default config;

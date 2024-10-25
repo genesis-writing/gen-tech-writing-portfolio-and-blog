@@ -55,4 +55,41 @@ identify procedural improvements.
 
 ## **Workflow Summary**
 
+### Mermaid Diagram
+
+I created this sequence diagram with Mermaid.
+
+```mermaid
+sequenceDiagram
+    participant Department 1
+    participant Department 2
+    participant Department 3
+    participant Department 4
+    participant Department 5
+    
+    Department 1->>Department 2: Project handed off
+    Note over Department 2: Analyze project and identify requirements
+    Department 2->>Department 3: Coordinate components for delivery
+    Department 3->>Department 4: Complete delivery and hand off
+    Note over Department 4: System entry updated
+    Department 4->>Department 2: Notify system update complete
+    Department 2->>Department 5: Review and send documentation for audit
+    Note over Department 5: Audit project documentation
+    
+    alt Audit fails
+        Department 5-->>Department 2: Send back for review
+        Note over Department 2: Review system entry
+        Department 2->>Department 1: Consult Department 1
+        Department 2->>Department 3: Consult Department 3
+        Department 2->>Department 4: Consult Department 4
+        Department 2->>Department 5: Revise documentation and send back
+    else Audit passes
+        Note over Department 5: Project deemed complete
+    end
+```
+
+### Swimlane Diagram
+
+I created this swimlane diagram with draw.io.
+
 ![Workflow diagram](/img/sop_images/wp-procedural-doc-wp-process-final.jpeg)

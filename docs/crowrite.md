@@ -1,7 +1,6 @@
 ---
 title: Crowrite
-tags:
-  - programming
+tags: [programming]
 ---
 
 # Crowrite - Final Project for CS50x
