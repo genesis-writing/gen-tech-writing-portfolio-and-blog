@@ -45,6 +45,8 @@ const config = {
           showLastUpdateTime: true,
         },
         blog: {
+          path: 'blog',
+          routeBasePath: 'blog',
           showReadingTime: true,
           onUntruncatedBlogPosts: 'ignore',
           postsPerPage: 5,
