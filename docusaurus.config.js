@@ -70,7 +70,13 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'portfolioSidebar',
             position: 'left',
-            label: 'Portfolio',
+            label: 'Docs',
+          },
+          {
+            type: 'doc',
+            docId: 'crowrite',
+            position: 'left',
+            label: 'Crowrite',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
