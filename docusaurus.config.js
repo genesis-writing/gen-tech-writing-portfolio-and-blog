@@ -31,8 +31,8 @@ const config = {
 
   // Algolia search environmental variables
   customFields: {
-    appId: process.env.ALGOLIA_APP_ID,
-    apiKey: process.env.ALGOLIA_API_KEY,
+    algoliaAppId: process.env.ALGOLIA_APP_ID,
+    algoliaApiKey: process.env.ALGOLIA_API_KEY,
   },
 
   // Even if you don't use internationalization, you can use this field to set
