@@ -4,6 +4,9 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
+// If you are using dotenv (https://www.npmjs.com/package/dotenv)
+import 'dotenv/config';
+
 import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
@@ -25,6 +28,12 @@ const config = {
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+
+  // Algolia search environmental variables
+  customFields: {
+    algoliaAppId: process.env.ALGOLIA_APP_ID,
+    algoliaApiKey: process.env.ALGOLIA_API_KEY,
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -127,7 +136,6 @@ const config = {
   algolia: {
     // The application ID provided by Algolia
     appId: process.env.ALGOLIA_APP_ID,
-
     // Public API key: it is safe to commit it
     apiKey: process.env.ALGOLIA_PUBLIC_API_KEY,
 

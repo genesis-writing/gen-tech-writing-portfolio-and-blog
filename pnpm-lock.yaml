@@ -29,6 +29,9 @@ importers:
       docusaurus-plugin-image-zoom:
         specifier: ^2.0.0
         version: 2.0.0(@docusaurus/theme-classic@3.5.2(@types/react@18.3.12)(acorn@8.13.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(typescript@5.6.3))
+      dotenv:
+        specifier: ^16.4.5
+        version: 16.4.5
       plugin-image-zoom:
         specifier: github:flexanalytics/plugin-image-zoom
         version: https://codeload.github.com/flexanalytics/plugin-image-zoom/tar.gz/8e1b866c79ed6d42cefc4c52f851f1dfd1d0c7de
@@ -2132,6 +2135,10 @@ packages:
   dot-prop@6.0.1:
     resolution: {integrity: sha512-tE7ztYzXHIeyvc7N+hR3oi7FIbf/NIjVP9hmAt3yMXzrQ072/fpjGLx2GxNxGxUl5V73MEqYzioOMoVhGMJ5cA==}
     engines: {node: '>=10'}
+
+  dotenv@16.4.5:
+    resolution: {integrity: sha512-ZmdL2rui+eB2YwhsWzjInR8LldtZHGDoQ1ugH85ppHKwpUHL7j7rN0Ti9NCnGiQbhaZ11FpR+7ao1dNsmduNUg==}
+    engines: {node: '>=12'}
 
   duplexer@0.1.2:
     resolution: {integrity: sha512-jtD6YG370ZCIi/9GTaJKQxWTZD045+4R4hTk/x1UyoqadyJ9x9CgSi1RlVDQF8U2sxLLSnFkCaMihqljHIWgMg==}
@@ -7833,6 +7840,8 @@ snapshots:
   dot-prop@6.0.1:
     dependencies:
       is-obj: 2.0.0
+
+  dotenv@16.4.5: {}
 
   duplexer@0.1.2: {}
 
