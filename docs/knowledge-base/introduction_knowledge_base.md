@@ -1,5 +1,5 @@
 ---
-id: introduction_knowledge_base
+id: introduction-knowledge-base
 title: Project Info
 sidebar_position: 1
 tags: [knowledge-base]

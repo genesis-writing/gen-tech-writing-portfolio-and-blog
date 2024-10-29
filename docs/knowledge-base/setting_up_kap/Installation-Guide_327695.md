@@ -1,5 +1,5 @@
 ---
-id: Installation-Guide_327695.md
+id: kap-installation-guide
 title: Installation Guide
 sidebar_position: 2
 tags: [knowledge-base]

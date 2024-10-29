@@ -1,5 +1,5 @@
 ---
-id: Screen-Recording-Permission-Guide_393254
+id: screen-recording-permission-guide
 title: Screen Recording Access Guide
 sidebar_position: 3
 tags: [knowledge-base]

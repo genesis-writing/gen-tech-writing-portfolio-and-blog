@@ -1,5 +1,5 @@
 ---
-id: Tool-Bar_393330
+id: toolbar-overview
 title: Toolbar
 sidebar_position: 1
 tags: [knowledge-base]

@@ -1,5 +1,5 @@
 ---
-id: Preferences-and-Plugins_360709
+id: preferences-and-plugins
 title: Preferences and Plugins
 sidebar_position: 2
 tags: [knowledge-base]

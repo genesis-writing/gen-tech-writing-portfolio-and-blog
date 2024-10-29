@@ -1,5 +1,5 @@
 ---
-id: Quick-Start-Guide_327712
+id: quick-start-guide
 title: Quick Start Guide
 sidebar_position: 3
 tags: [knowledge-base]

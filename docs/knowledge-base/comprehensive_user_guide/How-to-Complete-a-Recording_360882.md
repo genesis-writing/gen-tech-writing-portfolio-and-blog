@@ -1,5 +1,5 @@
 ---
-id: How-to-Complete-a-Recording_360882.md
+id: how-to-complete-a-recording
 title: How to Complete a Recording
 sidebar_position: 4
 tags: [knowledge-base]
