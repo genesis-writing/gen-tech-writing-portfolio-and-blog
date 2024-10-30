@@ -22,7 +22,7 @@ const config = {
   baseUrl: '/',
 
   // To ensure functionality with Algolia search
-  trailingSlash: true,
+  trailingSlash: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
