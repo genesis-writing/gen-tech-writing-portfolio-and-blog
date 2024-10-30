@@ -25,4 +25,4 @@ Another challenge was week 9 with Flask. The first problem set was manageable. T
 
 When it was time for the final project, I wondered what to build. There's nothing scarier than a blank page (except maybe for C 😅). I decided to create a Flask app called Crowrite, featuring various technical writing tools. Like documentation projects, much of the time was spent researching and figuring out which libraries would help achieve the needed functionality.
 
-If you want to read more about Crowrite, check out this <u>[page](../docs/crowrite)</u>!
+If you want to read more about Crowrite, check out this <u>[page](/docs/crowrite/)</u>!
