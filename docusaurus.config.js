@@ -101,8 +101,8 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/genesis-writing',
-            label: 'GitHub',
+            href: 'https://github.com/genesis-writing/gen-tech-writing-portfolio-and-blog',
+            label: 'Portfolio Repo',
             position: 'right',
           },
         ],
