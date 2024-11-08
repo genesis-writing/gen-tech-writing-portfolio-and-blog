@@ -11,6 +11,14 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+
+  // Mermaid diagrams
+  markdown: {
+    mermaid: true, // Enable Mermaid support
+  },
+  themes: ['@docusaurus/theme-mermaid'],
+
+  // Site info
   title: 'Genesis Sorto',
   tagline: 'Canadian Technical Writer',
   favicon: 'img/favicon.ico',
@@ -131,10 +139,6 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
    // }),
-  markdown: {
-    mermaid: true, // Enable Mermaid support
-  },
-  themes: ['@docusaurus/theme-mermaid'], // Include your theme here
 
   algolia: {
     // The application ID provided by Algolia
