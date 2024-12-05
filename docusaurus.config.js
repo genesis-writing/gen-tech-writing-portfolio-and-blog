@@ -84,7 +84,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/genesis-writing-social_card.png',
       navbar: {
-        title: 'Gen Writes',
+        title: "Gen's Technical Writing Portfolio",
         logo: {
           alt: 'Gen Writes Logo',
           src: 'img/gs-web-logo.png',
@@ -110,7 +110,7 @@ const config = {
           },
           {
             href: 'https://github.com/genesis-writing/gen-tech-writing-portfolio-and-blog',
-            label: 'Portfolio Repo',
+            label: 'Repo',
             position: 'right',
           },
         ],
