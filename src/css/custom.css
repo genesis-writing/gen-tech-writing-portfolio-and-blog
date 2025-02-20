@@ -26,8 +26,22 @@
   --ifm-color-primary-lightest: #ffffff;
 }
 
-.footer__links {
+/* Footer stuff */
+
+/* Ensure the footer content is always centered */
+.footer {
   text-align: center;
+}
+
+/* Center the links container in footer */
+.footer__col {
+  margin: 0 auto;  
+}
+
+/* Center contact links */
+.footer__items {
+  display: inline-block; /* Ensure the items stay on one line */
+  text-align: center;  /* Center the items within */
 }
 
 .row {

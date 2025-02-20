@@ -132,7 +132,8 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Genesis Sorto - Writing Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Genesis Sorto, Technical Writer - Site built with Docusaurus 
+        <br>Opinions are my own and do not reflect my employer's views.`,
       },
       prism: {
         theme: prismThemes.github,
