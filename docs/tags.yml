@@ -18,3 +18,7 @@ programming:
   label: 'programming'
   permalink: '/programming'
   description: 'Programming-related docs'
+my-tech-stack:
+  label: 'my-tech-stack'
+  permalink: '/my-tech-stack'
+  description: 'Tools and docs as code workflow overview'

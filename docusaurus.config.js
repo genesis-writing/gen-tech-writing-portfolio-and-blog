@@ -96,13 +96,19 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
+          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type: 'doc',
+            docId: 'my-tech-stack',
+            position: 'left',
+            label: 'Tech Stack',
+          },
           {
             type: 'doc',
             docId: 'crowrite',
             position: 'left',
             label: 'Crowrite',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://www.linkedin.com/in/genesis-sorto/',
             label: 'LinkedIn',
