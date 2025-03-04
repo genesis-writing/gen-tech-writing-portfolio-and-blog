@@ -81,6 +81,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+
       // Replace with your project's social card
       image: 'img/genesis-writing-social_card.png',
       navbar: {

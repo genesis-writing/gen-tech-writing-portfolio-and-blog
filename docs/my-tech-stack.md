@@ -3,6 +3,9 @@ title: My Portfolio's Tech Stack
 tags: [my-tech-stack]
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+import ThemedImage from '@theme/ThemedImage';
+
 # My Portfolio's Tech Stack 
 
 Hi there! Curious about the tech behind this portfolio? Let me give you a quick peek at the tools I use to build and maintain it, and why I'm excited about using them as a Technical Writer embracing docs as code.
@@ -26,9 +29,10 @@ Here's my straightforward but effective docs as code workflow, leveraging the to
 
 This tech stack and workflow are my way of putting docs as code principles into action, allowing me to create high quality, efficient, and maintainable documentation. It makes the whole process a lot more fun!
 
-```mermaid
-graph LR
-    A[VS Code: Draft Markdown docs] --> B{GitHub: Push to repo}
-    B --> C[Netlify: Auto-deploy to production]
-    C --> D[Live Website: Production]
-```
+<ThemedImage
+  alt="Docs as code animation of light and dark mode switching"
+  sources={{
+    light: useBaseUrl('/img/docs-as-code-workflow-light.gif'),
+    dark: useBaseUrl('/img/docs-as-code-workflow-dark.gif'),
+  }}
+/>
