@@ -5,6 +5,9 @@ sidebar_position: 2
 tags: [sop]
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Business Operation Process
 
 ## **Overview**
@@ -55,9 +58,9 @@ identify procedural improvements.
 
 ## **Workflow Summary**
 
-### Mermaid Diagram
-
-I created this sequence diagram with Mermaid.
+<Tabs>
+  <TabItem value="mermaid-diadram" label="Mermaid Diagram" default>
+    I created this sequence diagram with Mermaid.
 
 ```mermaid
 sequenceDiagram
@@ -87,9 +90,10 @@ sequenceDiagram
         Note over Department 5: Project deemed complete
     end
 ```
+  </TabItem>
+  <TabItem value="swimlane-diagram" label="Swimlane Diagram">
+    I created this swimlane diagram with draw.io.
 
-### Swimlane Diagram
-
-I created this swimlane diagram with draw.io.
-
-![Workflow diagram](/img/sop_images/wp-procedural-doc-wp-process-final.jpeg)
+    ![Workflow diagram](/img/sop_images/wp-procedural-doc-wp-process-final.jpeg)
+  </TabItem>
+</Tabs>

@@ -15,4 +15,6 @@ It’s hard to believe it’s been almost three months since my [July 5th post](
 
 Since swimlanes are crucial for showing the transfer of information between five departments in my case, I opted for a sequence diagram. I figured this would at least show the interaction between different parties.
 
-Want to check it out? [Click here](/docs/sop/business-operation-process#mermaid-diagram) to see it in action in my SOP!
+Want to check it out? [Click here](/docs/sop/business-operation-process#workflow-summary) to see it in action in my SOP!
+
+I created this swimlane diagram with draw.io.
