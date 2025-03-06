@@ -10,6 +10,8 @@ tags: [writing, learning]
 
 In 2024, I focused on leveling up my technical writing skills, and here are four key achievements that defined my year:
 
+<!-- truncate -->
+
 ## Made AI My Super Power
 
 One of my priorities was learning how to leverage AI to be a more efficient Technical Writer. So I took an AI course for Technical Writers, offered by [Technical Writer HQ](https://technicalwriterhq.com/ai-writer-certification/). Taking this course helped me learn how to build effective prompts and significantly cut down my proofreading time. Up until then, I had been experimenting with ChatGPT for a few months but didn’t fully understand how to unlock its potential.
