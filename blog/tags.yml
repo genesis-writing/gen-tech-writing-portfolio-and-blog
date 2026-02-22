@@ -8,5 +8,5 @@ learning:
   description: 'Blogs about learning new things'
 ai:
   label: 'AI'
-  permalink: '/learning'
+  permalink: '/artificial-intelligence'
   description: 'Blogs about Artificial Intelligence'
