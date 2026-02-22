@@ -3,7 +3,7 @@ title: 2025 Year in Review
 description: Reflecting on what I learned in 2024
 slug: eleventh-blog-post
 authors: ghosty
-tags: [writing, learning]
+tags: [writing, learning, ai]
 ---
 
 # 2024 Year in Review

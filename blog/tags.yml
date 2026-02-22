@@ -6,3 +6,7 @@ learning:
   label: 'Learning'
   permalink: '/learning'
   description: 'Blogs about learning new things'
+ai:
+  label: 'AI'
+  permalink: '/learning'
+  description: 'Blogs about Artificial Intelligence'

@@ -3,7 +3,7 @@ title: The Soul of the Technical Writer
 description: Recent thoughts on what will happen to the Technical Writing discipline with the rise of AI
 slug: fourteenth-blog-post
 authors: ghosty
-tags: [writing, learning]
+tags: [writing, learning, ai]
 ---
 
 # The Soul of the Technical Writer
