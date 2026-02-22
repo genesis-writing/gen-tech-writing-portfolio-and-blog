@@ -1,6 +1,6 @@
 ---
-title: The Soul of the Technical Writer
-description: Recent thoughts on what will happen to the Technical Writing discipline with the rise of AI
+title: My First Week with Claude Code
+description: Engineering a writing system for technical documentation
 slug: fifteenth-blog-post
 authors: ghosty
 tags: [writing, learning, ai]
